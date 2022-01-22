@@ -51,6 +51,10 @@ h1, h2, h3{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h2{
+    font-size: 28px;
+}
+
 .logo{
     margin-left: 100px;
     margin-top: 40px;
@@ -127,6 +131,7 @@ a:active{
 hr{
     border: 2px goldenrod solid;
     border-radius: 100%;
+    clear: both;
 }
 
 header img{
